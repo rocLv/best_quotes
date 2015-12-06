@@ -1,0 +1,13 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    rulers (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rulers
+
+BUNDLED WITH
+   1.10.6
