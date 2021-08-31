@@ -1,6 +1,5 @@
 class QuotesController < Rulers::Controller
   def a_quote
-    "There is nothing eigher good or bad " +
-      "but thinking make it so."
+    render :a_quote, :noun => :winking
   end
 end

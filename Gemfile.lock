@@ -1,11 +1,13 @@
 PATH
   remote: ../rulers
   specs:
-    rulers (0.3.5)
+    rulers (0.4.6)
+      erubis
 
 GEM
   remote: http://rubygems.org/
   specs:
+    erubis (2.7.0)
 
 PLATFORMS
   x86_64-darwin-20
